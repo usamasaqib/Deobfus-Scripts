@@ -1,5 +1,8 @@
-# Authors
+# Automating Binary Deobfuscation Processes: Dynamic Taint Analysis and Symbolic Execution
 
+Content for the presentation given at TOBB university, Malware Analysis and Reverse Engineering Workshop.
+
+## Authors
 Berk Cem Goksel
 
 Usama Saqib
