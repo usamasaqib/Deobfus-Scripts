@@ -1,3 +1,7 @@
+# Authors
+
+Berk Cem Goksel
+Usama Saqib
 
 # Introduction
 In this article we describe a technique for deobfuscating virtualized binaries. Code virtualization is a well known obfuscation technique, where important
