@@ -3,7 +3,7 @@
 Content for the presentation given at TOBB university, Malware Analysis and Reverse Engineering Workshop https://etuguvenlik.wordpress.com/ .
 
 ## Authors
-Berk Cem Goksel
+Berk Cem Göksel
 
 Usama Saqib
 
