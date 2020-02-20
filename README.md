@@ -52,7 +52,7 @@ as shown in the figure below. It comprises of five principle components:
 and updates it as required.
 4. **Terminate**: The machine terminates once all the instructions have been executed, or an illegal instruction is met.
 
-```mermaid
+```
 graph TD;
     Fetch-->B[Decode];
     B-->Handler1;
@@ -72,7 +72,7 @@ The following is a brief explanation of the main parts of the factorial program.
 1. Check whether the input is greater than 0. Input less than zero is considered undefined.
 2. This is the factorial function. At the beginning of each iteration the structure of the stack is as follows:
 
-    > | original_value | running_sum | counter|
+    | original_value | running_sum | counter |
 
     The iteration begins by checking if the counter is less than the original value. If so then, it is copied, and the
     copy is multiplied with the running sum. The counter is incremented and the iteration begins again.
